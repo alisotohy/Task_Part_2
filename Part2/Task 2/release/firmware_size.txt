@@ -1,0 +1,2 @@
+   text	   data	    bss	    dec	    hex	filename
+   2736	     16	      0	   2752	    ac0	C:\HTI\3rd term mechatronics\NTI\pro\Arch0.03\release\firmware.elf
