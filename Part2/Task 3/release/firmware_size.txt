@@ -1,0 +1,2 @@
+   text	   data	    bss	    dec	    hex	filename
+   2724	     16	      0	   2740	    ab4	C:\HTI\3rd term mechatronics\NTI\TASKS\Part2\Task 3\release\firmware.elf
