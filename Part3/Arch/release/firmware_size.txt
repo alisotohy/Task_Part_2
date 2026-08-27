@@ -1,0 +1,2 @@
+   text	   data	    bss	    dec	    hex	filename
+   3190	     24	      7	   3221	    c95	C:\HTI\3rd term mechatronics\NTI\At Mega16\Arch\release\firmware.elf
